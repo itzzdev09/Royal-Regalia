@@ -1,15 +1,14 @@
 # Royal-Regalia
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
+https://itzzdev09.github.io/Royal-Regalia/
 ## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description

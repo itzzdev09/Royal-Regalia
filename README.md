@@ -29,13 +29,6 @@
 4.  Push your changes to your forked repository.
 5.  Submit a pull request to the main repository.
 
-> Please ensure your code follows the project's coding standards and includes appropriate tests.
-
-> If a LICENSE file is not present in the repository, create one.
-
-## License
-
-> This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 

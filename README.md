@@ -39,6 +39,6 @@
 
 ## Contact
 
-> Your Name - [Devraj](connectingwithdev@gmail.com)
+>  contact me [Devraj](connectingwithdev@gmail.com)
 
 > Feel free to reach out with any questions or suggestions!

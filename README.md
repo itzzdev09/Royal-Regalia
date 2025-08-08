@@ -31,6 +31,6 @@ https://itzzdev09.github.io/Royal-Regalia/
 
 ## Contact
 
->  contact me [Devraj](connectingwithdev@gmail.com)
+>  contact me [Devraj Pal](connectingwithdev@gmail.com)
 
 > Feel free to reach out with any questions or suggestions!
